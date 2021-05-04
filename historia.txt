@@ -1,3 +1,6 @@
 Estamos aprendiendo git
 
 vamos a hacer un commit y agregar nuevas cosas al codigo 
+
+
+estamos modificando el archivo
